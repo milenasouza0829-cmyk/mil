@@ -1,0 +1,6 @@
+{
+  "name": "Pear Mobile",
+  "description": "Descubra a nova geração de smartphones Pear: a união definitiva entre sofisticação, inovação e tecnologia de ponta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
